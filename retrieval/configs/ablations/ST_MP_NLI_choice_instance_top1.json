@@ -1,0 +1,5 @@
+{
+    "method": "ST_MP_NLI",
+    "text_format": "choice_instance",
+    "top_k": 1
+}

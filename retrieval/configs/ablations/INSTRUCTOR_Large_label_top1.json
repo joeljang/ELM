@@ -1,0 +1,5 @@
+{
+    "method": "INSTRUCTOR_Large",
+    "text_format": "label",
+    "top_k": 1
+}

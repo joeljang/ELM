@@ -1,0 +1,5 @@
+{
+    "method": "INSTRUCTOR_XL",
+    "text_format": "choice",
+    "top_k": 1
+}

@@ -1,0 +1,5 @@
+{
+    "method": "ST",
+    "text_format": "label_instance",
+    "top_k": 1
+}

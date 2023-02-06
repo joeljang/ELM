@@ -1,0 +1,5 @@
+{
+    "method": "DIFFCSE",
+    "text_format": "choice",
+    "top_k": 1
+}

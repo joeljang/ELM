@@ -1,0 +1,5 @@
+{
+    "method": "SIMCSE_SUP",
+    "text_format": "label_instance_new",
+    "top_k": 1
+}

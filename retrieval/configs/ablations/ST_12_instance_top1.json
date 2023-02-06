@@ -1,0 +1,5 @@
+{
+    "method": "ST_12",
+    "text_format": "instance",
+    "top_k": 1
+}

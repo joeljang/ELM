@@ -1,0 +1,5 @@
+{
+    "method": "GTR_Large",
+    "text_format": "choice_new",
+    "top_k": 1
+}

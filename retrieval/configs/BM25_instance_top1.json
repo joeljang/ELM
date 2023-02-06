@@ -1,0 +1,5 @@
+{
+    "method": "BM25",
+    "text_format": "instance",
+    "top_k": 1
+}

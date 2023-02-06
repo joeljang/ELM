@@ -1,0 +1,5 @@
+{
+    "method": "SIMCSE_UNSUP",
+    "text_format": "instance",
+    "top_k": 1
+}

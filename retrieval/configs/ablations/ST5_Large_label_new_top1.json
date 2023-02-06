@@ -1,0 +1,5 @@
+{
+    "method": "ST5_Large",
+    "text_format": "label_new",
+    "top_k": 1
+}

@@ -1,0 +1,5 @@
+{
+    "method": "SIMCSE_UNSUP",
+    "text_format": "label",
+    "top_k": 1
+}
