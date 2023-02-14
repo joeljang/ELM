@@ -70,7 +70,10 @@ This will save a adapter expert weight under the 'seq2seq/expert_weights' direct
 
 Note that we provide all the expert weights within the zip file that you might have downloaded from azure.
 
-Also, note that our code relies on outdated HuggingFace code, so we found it really tricky to set multi-gpu. If you would like to use multi-gpu, we recommend you train with the following repository, and come back for Evaluation.
+Also, note that our code relies on old version of HuggingFace code, so we found it really tricky to set multi-gpu. While using only one GPU is okay for training PE(Prompt Expert), training DE(Dataset Expert) w/ full parameter requires at least 4 A100 GPUs. If you would like to use multi-gpu, we recommend you train with the following repository. More specifically, you could use the 'DIRECT' configuration file for training the Dataset Expert.
+```
+git clone https://github.com/seonghyeonye/Flipped-Learning.git
+```
 
 ## 4. Evaluating
 For evaluation, you get to use the same configuration file as with training.
