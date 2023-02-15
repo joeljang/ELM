@@ -1,6 +1,16 @@
 # Expert Language Models (ELM)
 This is the official github repository for [Exploring the Benefits of Training Expert Language Models over Instructions Tuning](https://arxiv.org/abs/2302.03202).
 
+Citation:
+```
+@article{jang2023exploring,
+  title={Exploring the Benefits of Training Expert Language Models over Instruction Tuning},
+  author={Jang, Joel and Kim, Seungone and Ye, Seonghyeon and Kim, Doyoung and Logeswaran, Lajanugen and Lee, Moontae and Lee, Kyungjae and Seo, Minjoon},
+  journal={arXiv preprint arXiv:2302.03202},
+  year={2023}
+}
+```
+
 Overview of our method, Retrieval of Experts (RoE).
 <p align="center">
   <img src="./figure1.PNG" width="80%" height="80%">
