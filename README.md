@@ -87,7 +87,6 @@ git clone https://github.com/seonghyeonye/Flipped-Learning.git
 
 We also provide the experimental setting & configurations for our compositional instruction in [https://github.com/doeyoungkim/multilingual_finetune](https://github.com/doeyoungkim/multilingual_finetune)
 
-https://github.com/doeyoungkim/multilingual_finetune
 ## 4. Evaluating
 For evaluation, you get to use the same configuration file as with training.
 This time, all the 'eval_dataset_name', 'eval_dataset_config_name' and 'eval_prompts' are used for evaluation.
