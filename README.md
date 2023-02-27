@@ -52,7 +52,7 @@ python setup.py develop
 ## 2. Preparing Data
 First, you have to download the following zip file from azure via wget command.
 ```
-wget https://roe.blob.core.windows.net/roe-container/addtional_data.zip
+wget https://roe.blob.core.windows.net/roe-container/additional_data.zip
 ```
 The file contains 6 directories in total.
 First, you should move 'indexes_256', 'indexes_512', 'retrieval_data' to "RoE/retrieval".
