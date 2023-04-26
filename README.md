@@ -1,5 +1,5 @@
 # Expert Language Models (ELM)
-This is the official github repository for [Exploring the Benefits of Training Expert Language Models over Instructions Tuning](https://arxiv.org/abs/2302.03202).
+This is the official github repository for [Exploring the Benefits of Training Expert Language Models over Instructions Tuning](https://arxiv.org/abs/2302.03202) [ICML 2023].
 
 Citation:
 ```
