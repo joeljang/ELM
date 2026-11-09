@@ -11,7 +11,7 @@ from argparse import ArgumentParser
 import re
 
 
-train_dict = json.load(open("./retrieval_data/seen_target_train_100.json","r"))
+train_dict = json.load(open("./retrieval_data/seen_target_train_100.json", "r", encoding="utf-8"))
 
 
 # Loading configs
@@ -23,7 +23,7 @@ if arg_.config is None:
 
 # Getting configurations
 config_path = arg_.config
-with open(config_path) as config_file:
+with open(config_path, encoding="utf-8") as config_file:
     config = json.load(config_file)
 config = argparse.Namespace(**config)
 
